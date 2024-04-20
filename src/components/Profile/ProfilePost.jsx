@@ -143,60 +143,6 @@ const ProfilePost = ({ img }) => {
                     profilePic='http://bit.ly/kent-c-dodds'
                     text={'Kentdo'}
                   />
-                  <Comment
-                    createdAt='3d ago'
-                    username='Ketndo'
-                    profilePic='http://bit.ly/kent-c-dodds'
-                    text={'Kentdo'}
-                  />
-                  <Comment
-                    createdAt='3d ago'
-                    username='Ketndo'
-                    profilePic='http://bit.ly/kent-c-dodds'
-                    text={'Kentdo'}
-                  />
-                  <Comment
-                    createdAt='3d ago'
-                    username='Ketndo'
-                    profilePic='http://bit.ly/kent-c-dodds'
-                    text={'Kentdo'}
-                  />
-                  <Comment
-                    createdAt='3d ago'
-                    username='Ketndo'
-                    profilePic='http://bit.ly/kent-c-dodds'
-                    text={'Kentdo'}
-                  />
-                  <Comment
-                    createdAt='3d ago'
-                    username='Ketndo'
-                    profilePic='http://bit.ly/kent-c-dodds'
-                    text={'Kentdo'}
-                  />
-                  <Comment
-                    createdAt='3d ago'
-                    username='Ketndo'
-                    profilePic='http://bit.ly/kent-c-dodds'
-                    text={'Kentdo'}
-                  />
-                  <Comment
-                    createdAt='3d ago'
-                    username='Ketndo'
-                    profilePic='http://bit.ly/kent-c-dodds'
-                    text={'Kentdo'}
-                  />
-                  <Comment
-                    createdAt='3d ago'
-                    username='Ketndo'
-                    profilePic='http://bit.ly/kent-c-dodds'
-                    text={'Kentdo'}
-                  />
-                  <Comment
-                    createdAt='3d ago'
-                    username='Ketndo'
-                    profilePic='http://bit.ly/kent-c-dodds'
-                    text={'Kentdo'}
-                  />
                 </VStack>
 
                 <Divider my={4} bg={'gray.8000'}></Divider>
