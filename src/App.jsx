@@ -8,8 +8,8 @@ function App() {
   return (
     <PageLayout>
       <Routes>
-        <Route path='/' element={<HomePage />} />
         <Route path='/auth' element={<AuthPage />} />
+        <Route path='/' element={<HomePage />} />
         <Route path='/:username' element={<ProfilePage />} />
       </Routes>
     </PageLayout>
